@@ -1,3 +1,5 @@
 # CS421: Machine Learning
 
-Project: Classify fraudulent users based on movie reviews
+Task: Classify fraudulent users based on movie reviews
+
+Data is published 
