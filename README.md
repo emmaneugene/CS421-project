@@ -10,3 +10,9 @@ challenging with time.
 
 Training datasets are located within the `/batches` directory, and output predictions are located within the `/predictions`
 directory
+
+## Getting started
+
+- Install all dependencies with `pip install -r requirements.txt`
+
+- Run the notebook!
