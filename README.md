@@ -1,12 +1,13 @@
-# CS421: Machine Learning
+# Course: CS421-Machine Learning
+# Project: Product rating fraud/anomaly detection
 
-Task: Classify fraudulent users based on movie reviews
+## Overview
 
-Data is published on a weekly basis, and labels for previous weeks are made available after submissions and metrics
-have been computed.
+The task is to build and optimize a model that can correctly identify fraudulent users based on their ratings for various items.
 
-The task is to optimize the classification model on a weekly basis, where the training sets get progressively more
-challenging with time.
+Data are published as batches on a weekly basis, and labels for previous weeks are made available after submissions and metrics have been computed.
+
+It assumed that real and fradulent user reviews are drawn from different probability distributions.
 
 Training datasets are located within the `/batches` directory, and output predictions are located within the `/predictions`
 directory
